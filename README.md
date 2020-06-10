@@ -1,4 +1,4 @@
- ## Educación Virtual o educación remota por emergencia? Una aproximación al abordaje de la continuación de los currículos escolares en Colombia en tiempos de pandemia
+# ¿ Educación Virtual o educación remota por emergencia? Una aproximación al abordaje de la continuación de los currículos escolares en Colombia en tiempos de pandemia
 *El* *covid-19* es un virus que cambió por completo la forma de vivir en sociedad en el año
 2020, puesto que, este obligó a millones de familias a recluirse en sus casas para evitar el
 contagio.
@@ -90,6 +90,5 @@ Más información: [https://www.eltiempo.com/vida/educacion/coronavirus-colombia
 ![Imagen 1](https://github.com/Skymerme/Education/blob/master/pic1.jpg)
 
 ![Imagen 3](https://github.com/Skymerme/Education/blob/master/pic3.jpg)
-
 
 
