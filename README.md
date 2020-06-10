@@ -92,4 +92,4 @@ Más información: [https://www.eltiempo.com/vida/educacion/coronavirus-colombia
 ![Imagen 3](https://github.com/Skymerme/Education/blob/master/pic3.jpg)
 
 
-README.md
+
