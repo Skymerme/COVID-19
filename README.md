@@ -15,12 +15,15 @@ virtualizado por completo a nivel nacional, sin tener en cuenta las condiciones 
 encuentran los estudiantes de diferentes zonas del país. **“Un reciente informe del
 Laboratorio de Economía de la Educación (LEE) de la Universidad Javeriana, reveló que
 existe un alto riesgo de que la tasa de repitencia escolar en Colombia aumenta por culpa de la actual emergencia sanitaria por coronavirus. Un escenario similar sería el de la deserción”** (Revista: El tiempo 07/05/20, Educación).
+
 ![Imagen 4](https://github.com/Skymerme/Education/blob/master/pic4.jpg)
 
 ### PREGUNTA PROBLEMA:
+
 *La continuación de los currículos escolares en Colombia en tiempos de pandemia, está
 teniendo en cuentas necesidades de las diferentes zonas del país y se está fundamentado
 en los principios de la educación virtual?*
+
 ![Imagen 2](https://github.com/Skymerme/Education/blob/master/pic2.jpg)
 ### HIPÓTESIS
 La educación virtual no se está implementado en estos momentos en Colombia, se está
