@@ -47,7 +47,7 @@ línea y el diseño de cursos en línea. Lo que sabemos de la investigación es 
 aprendizaje efectivo en línea resulta del cuidadoso diseño y planificación de la instrucción,
 utilizando un modelo sistemático para el diseño y el desarrollo” (Branch y Dousay, 2015).
 
-![Imagen 3](https://github.com/Skymerme/Education/blob/master/pic3.jpg)
+![Alt text](https://github.com/Skymerme/Education/blob/master/pic1.jpg)
 
 ## DESARROLLO
 La enseñanza en épocas de pandemia debe tener un análisis abierto según las condiciones
