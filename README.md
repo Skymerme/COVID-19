@@ -47,8 +47,6 @@ línea y el diseño de cursos en línea. Lo que sabemos de la investigación es 
 aprendizaje efectivo en línea resulta del cuidadoso diseño y planificación de la instrucción,
 utilizando un modelo sistemático para el diseño y el desarrollo” (Branch y Dousay, 2015).
 
-![Alt text](https://github.com/Skymerme/Education/blob/master/pic1.jpg)
-
 ## DESARROLLO
 La enseñanza en épocas de pandemia debe tener un análisis abierto según las condiciones
 de cada sociedad donde se está implementando, pues el factor económico y de índole de
@@ -75,7 +73,7 @@ Ahora bien, en el marco del desarrollo de la Pandemia del Covid-19 se plantea un
 resignificación de lo escolar, pues a partir del drástico cambio de entornos presenciales a entornos digitales, genera que de manera obligatoria se haga un vuelco pedagógico de cómo se enseña en Colombia, pero más que estas discusiones pedagógicas, deja en evidencia muchos estudiantes no tienen las condiciones mínimas para afrontar una educación netamente virtual y que las condiciones de vida de los estudiantes afecta en el desarrollo de su aprendizaje. (referencia del periódico vanguardia, mayo del 2020).
 Finalmente, se evidencia que desde el gobierno de Colombia se han intentado hacer unos contenidos que pueden ser “accesibles” a personas que no cuentan con una conexión estable a través de la plataforma Colombia Aprende, sin embargo, para acceder a estos contenidos se requiere de medios digitales que muchas veces no se tienen, y además, las pedagogías sin el más mínimo contacto con el estudiante, pierden sentido.
 
-![Imagen 5](https://github.com/Skymerme/Education/blob/master/pic5.jpg)
+![Imagen 5](https://github.com/Skymerme/Educacion-Emergencia/blob/master/pic4.jpg?raw=true)
 
 ## CONCLUSIÓN
 Todos los involucrados en esta migración abrupta al aprendizaje en línea deben darse
@@ -96,9 +94,6 @@ simplemente surgen cada vez más diferencias marcadas con relación a lo económ
 Más información: [https://www.eltiempo.com/vida/educacion/coronavirus-colombia-que-dice-el-decreto-660-sobre-el-calendario-academico-por-covid-19-495476]
 [https://markdown.es/sintaxis-markdown/]
 
-![Imagen 1](https://github.com/Skymerme/Education/blob/master/pic1.jpg)
 
-
-
-
+ [https://youtu.be/vPAZ1n1p0kY]
 
