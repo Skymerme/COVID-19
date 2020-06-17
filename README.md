@@ -23,7 +23,7 @@ existe un alto riesgo de que la tasa de repitencia escolar en Colombia aumenta p
 teniendo en cuentas necesidades de las diferentes zonas del país y se está fundamentado
 en los principios de la educación virtual?*
 
-![Imagen 2](https://github.com/Skymerme/Education/blob/master/pic2.jpg)
+![Imagen 2](https://github.com/Skymerme/Educacion-Emergencia/blob/master/pic2.jpg?raw=true)
 
 ### HIPÓTESIS
 La educación virtual no se está implementado en estos momentos en Colombia, se está
