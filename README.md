@@ -30,7 +30,7 @@ La educación virtual no se está implementado en estos momentos en Colombia, se
 implementando la educación remota de emergencia. Lo que ha imposibilitado el
 aprovechamiento al máximo de la enseñanza bajo un curriculum virtual.
 
-![Imagen 6](https://github.com/Skymerme/Education/blob/master/pic6.jpg)
+![Imagen 6](https://github.com/Skymerme/Educacion-Emergencia/blob/master/pic3.jpg?raw=true)
 ### INTRODUCCIÓN
 El aprendizaje en línea conlleva el estigma de ser de menor calidad que el aprendizaje
 presencial, a pesar de que las investigaciones demuestran lo contrario. En estos momentos
